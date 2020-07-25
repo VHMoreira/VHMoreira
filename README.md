@@ -23,33 +23,50 @@ So if have some question about my repositories, i will be very happy to help you
 - ReactJS
 - React Native
 
-#### :star: All my techs:
+#### My Stats
+
+![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=VHMoreira&count_private=true&show_icons=true&line_height=40&icon_color=08a045&title_color=6bbf59&text_color=08a045&bg_color=2e294e&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHMoreira&count_private=true&show_icons=true&line_height=40&icon_color=323232&title_color=6bbf59&text_color=08a045&bg_color=2e294e&hide_border=true)
+
+#### :heart: Favorite's Repositories
+
+##### Backend
+[![Oolé API](https://github-readme-stats.vercel.app/api/pin/?username=ooleteam&repo=ooleAPI)](https://github.com/ooleteam/ooleAPI)
+
+##### Frontend
+[![V-pokedex](https://github-readme-stats.vercel.app/api/pin/?username=VHMoreira&repo=vpokedex)](https://github.com/VHMoreira/vpokedex)
+
+##### Mobile
+[![Oolé App](https://github-readme-stats.vercel.app/api/pin/?username=ooleteam&repo=oole-app)](https://github.com/ooleteam/oole-app)
+
+
+<!--#### :star: All my techs:
 ##### Backend 
 - Java
 - Python
 - Node.js
 - Spring Boot
 - Flask
-- Express
+- Express -->
 
-##### Frontend
+<!--##### Frontend
 - Javascript
 - HTML
 - CSS
 - VueJS
-- ReactJS
+- ReactJS -->
 
-##### Mobile
+<!--##### Mobile
 - React Native
-- Flutter
+- Flutter -->
 
-##### Database
+<!--##### Database
 - PostgreSQL
-- MySQL
+- MySQL -->
 
-##### Cloud
+<!--##### Cloud
 - Heroku
-- AWS S3
+- AWS S3 -->
 
 #### :dart: My goals:
 - Be the best dev
