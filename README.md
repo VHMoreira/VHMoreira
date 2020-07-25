@@ -31,13 +31,13 @@ So if have some question about my repositories, i will be very happy to help you
 #### :heart: Favorite's Repositories
 
 ##### Backend
-[![Oolé API](https://github-readme-stats.vercel.app/api/pin/?username=ooleteam&repo=ooleAPI)](https://github.com/ooleteam/ooleAPI)
+[![Oolé API](https://github-readme-stats.vercel.app/api/pin/?username=ooleteam&repo=ooleAPI&show_icons=true&line_height=40&icon_color=08a045&title_color=6bbf59&text_color=08a045&bg_color=2e294e&hide_border=true)](https://github.com/ooleteam/ooleAPI)
 
 ##### Frontend
-[![V-pokedex](https://github-readme-stats.vercel.app/api/pin/?username=VHMoreira&repo=vpokedex)](https://github.com/VHMoreira/vpokedex)
+[![V-pokedex](https://github-readme-stats.vercel.app/api/pin/?username=VHMoreira&repo=vpokedex&show_icons=true&line_height=40&icon_color=08a045&title_color=6bbf59&text_color=08a045&bg_color=2e294e&hide_border=true)](https://github.com/VHMoreira/vpokedex)
 
 ##### Mobile
-[![Oolé App](https://github-readme-stats.vercel.app/api/pin/?username=ooleteam&repo=oole-app)](https://github.com/ooleteam/oole-app)
+[![Oolé App](https://github-readme-stats.vercel.app/api/pin/?username=ooleteam&repo=oole-app&show_icons=true&line_height=40&icon_color=08a045&title_color=6bbf59&text_color=08a045&bg_color=2e294e&hide_border=true)](https://github.com/ooleteam/oole-app)
 
 
 <!--#### :star: All my techs:
